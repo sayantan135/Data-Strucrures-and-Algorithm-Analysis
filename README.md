@@ -1,9 +1,9 @@
 # Design Analysis of Algorithm
 Design & Analysis of Algorithm Lab
 
-Assignment List
+## Assignment List
 
-Week1:
+## Week1:
 1. Find second largest and second smallest number simultaneously in an array using Divide &
 Conquer Principle.
 2. Given a sorted array and a number X, search two elements of array such that their sum is X.
