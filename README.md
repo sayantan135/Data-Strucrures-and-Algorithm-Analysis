@@ -1,5 +1,5 @@
 # Design Analysis of Algorithm
-Design & Analysis of Algorithm Lab
+
 
 ## Assignment List
 
